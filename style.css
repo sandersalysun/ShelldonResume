@@ -1,0 +1,106 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+				h1, h2 {
+		 			text-transform: uppercase; 
+		 			font-family: Helvetica, sans-serif;
+		 			letter-spacing: 0.15em;
+		 			border-width: 1px;
+					border-radius: 10px;
+					font-weight: bold;
+		 			}
+
+				h2 {
+					color: #e5f8d2;
+					background-color: darkcyan;
+					font-size: 1.8em;
+					text-align: left; 
+					margin-top: 7%;
+					margin-bottom: 5%;
+					padding: 3%;
+					}
+
+		 		h1 {
+		 			color: #e5f8d2;
+		 			background-color: #00534e;;
+					font-size: 2.5em;
+					text-align: center; 
+					line-height: 130%;
+					padding: 2%;
+					margin-top: 3%;
+					}
+
+				body{
+					background: #e5f8d2 url('hexagons_2.png') no-repeat center 100px fixed;
+					  font-family: Georgia, serif;
+					  letter-spacing: 0.07em;
+					  line-height: 160%;
+					  text-align: left; 
+					  margin: 0% 11% 15%;
+					  font-size: 1em;
+					  color: black;
+					  }
+
+				#title {
+					font-weight: bold;
+				}
+
+				.card {
+					background-color:#e5f8d2 ;
+					color: black;
+					font-family: Georgia, serif;
+					border-width: 3px;
+					padding-top: 10px;
+					margin-top: 30px;
+
+				}
+
+				.blockquote-footer{
+					color: #00534e;
+					font-family: Georgia, serif;
+				}
+
+				.card-header {
+					background-color: #00534e;
+					font-family: Helvetica, sans-serif;
+					color: #e5f8d2;
+					text-transform: uppercase;
+					font-weight: bold;
+				}
+
+
+				.d-block {
+					padding-top: 25px;
+					padding-left: 20px;
+				}
+
+				a:link{	
+					text-decoration:none;
+					color: royalblue;
+					font-family: Georgia, serif;
+					font-size: 1em;
+
+					 }
+				a:visited{
+					text-decoration: none;
+					color: rebeccapurple;
+				}
+
+				a:hover{ 
+					text-decoration: underline;
+					color: indianred;	
+
+				}
+
+				a:active{ 
+					text-decoration:none;
+					color: springgreen;
+				}
+
+				ul {
+ 				 	text-align: left;
+  					margin-left: 3%;
+  					margin-right: 10%;
+  					margin-bottom: 4%;
+  					list-style-image: url('star.png');
+					}
